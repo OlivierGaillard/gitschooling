@@ -1,0 +1,2 @@
+Un test avec cette ligne qui sera incompatible avec le fichier
+local sour Win10.
